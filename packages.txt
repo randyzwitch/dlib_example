@@ -1,2 +1,4 @@
 cmake
 pkg-config
+libopenblas-dev 
+liblapack-dev
