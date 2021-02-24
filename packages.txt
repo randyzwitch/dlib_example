@@ -3,4 +3,4 @@ pkg-config
 libopenblas-dev 
 liblapack-dev
 libx11-dev
-python-pycuda
+cuda
