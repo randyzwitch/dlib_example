@@ -1,4 +1,6 @@
-name: stats
+name: dlib_example
+channels:
+  - conda-forge
 dependencies:
   - streamlit >= 0.73
   - dlib
