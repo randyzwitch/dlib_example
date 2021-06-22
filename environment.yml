@@ -1,4 +1,3 @@
-name: dlib_example
 channels:
   - conda-forge
 dependencies:
