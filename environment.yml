@@ -1,3 +1,4 @@
+name: dlib
 channels:
   - conda-forge
 dependencies:
